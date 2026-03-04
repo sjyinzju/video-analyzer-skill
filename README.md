@@ -4,5 +4,6 @@ This is a video analysis skill for the OpenCode plugin in Obsidian. Simply invok
 
 注意：这只是一个参考提示词，使用时，请把SKILL.md里面的文件路径换成你自己的。该技能同样可以给coding CLI使用，只要你安装了obsidian官方发布的skills：https://github.com/kepano/obsidian-skills  
 Note: This is just a reference prompt. When using, please replace the file path in SKILL.md with your own. This skill can also be used with the coding CLI, as long as you have installed the skills officially released by Obsidian: https://github.com/kepano/obsidian-skills  
+
 这里提供一个思路，如果有更好的视频分析的思考，也可自行添加。  
 It's only a thought to consider. If you have better ideas for video analysis, feel free to add them.
